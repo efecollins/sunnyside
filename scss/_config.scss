@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:wght@700;900&display=swap');
+
+$soft-red: hsl(7, 99%, 70%);
+$yellow: hsl(51, 100%, 49%);
+$graphic-design-text: hsl(167, 40%, 24%);
+$photography-text: hsl(198, 62%, 26%);
+$footer: hsl(168, 34%, 41%);
+
+$neutral1: hsl(212, 27%, 19%);
+$neutral2: hsl(213, 9%, 39%);
+$neutral3: hsl(232, 10%, 55%);
+$neutral4: hsl(210, 4%, 67%);
+$neutral5: hsl(0, 0%, 100%);
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 18px;
+    font-family: 'Barlow', sans-serif;
+    color: $neutral5;
+}
