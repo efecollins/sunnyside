@@ -28,7 +28,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
+So sorry for these really big images.
 ![Desktop Design (strictly designed to 1440px)](dist/images/screenshots/screenshot_desktop.png)
 ![Mobile Design (strictly designed to 375px)](dist/images/screenshots/screenshot_mobile.png)
 ![Mobile Menu](dist/images/screenshots/screenshot_mobile-menu.png)
